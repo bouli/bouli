@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cesar Cardoso
+Hi 👋 I'm Cesar Cardoso
 ======================================================================================================================================
 
 Data Engineer
@@ -6,4 +6,11 @@ Data Engineer
 
 * 🌍  I'm based in Hamburg, DE
 * ✉️  You can contact me at [caesar.cardoso@gmail.com](mailto:caesar.cardoso@gmail.com)
-* 🖥️  [More Information](http://cesarcardoso.cc)
+
+### Links
+
+ 🖥️  [cesarcardoso.cc](http://cesarcardoso.cc)
+| 🧑🏻‍💻  [LinkedIn](https://www.linkedin.com/in/cesardesouzacardoso/)
+| 🐈‍⬛  [GitHub](https://github.com/bouli)
+| 🐳  [Docker Hub](https://hub.docker.com/r/cesarbouli/)
+| 🤓  [Coursera Profile](https://www.coursera.org/learner/cesarcardoso)
